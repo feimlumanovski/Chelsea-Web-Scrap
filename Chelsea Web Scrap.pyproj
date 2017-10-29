@@ -19,17 +19,8 @@
     <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="chelsea A.html" />
-    <Content Include="chelsea a2.html" />
-    <Content Include="chelsea a3.html" />
-    <Content Include="chelsea HA.html" />
-    <Content Include="trump_lies.html" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Chelsea %28A%29.py" />
     <Compile Include="Chelsea %28AH%29.py" />
-    <Compile Include="Trump webscraper.py" />
-    <Compile Include="Trump webscraper2.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
 </Project>
