@@ -15,4 +15,4 @@ for result in results:
 
 import pandas as pd  
 df = pd.DataFrame(records, columns=['date', 'H or A', 'versus'])   
-df.to_html('chelsea HA1.xls', index=False) 
+df.to_csv('chelsea_HA2.csv', index=False) 
