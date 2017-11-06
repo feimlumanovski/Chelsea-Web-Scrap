@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chelsea Web Scrap", "Chelse
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "newtest", "newtest\newtest.pyproj", "{5041F998-EEA8-44D2-8165-E72F92FD7177}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "editcsv", "editcsv\editcsv.pyproj", "{F075B04F-4FF3-41F5-9DDA-FEDC07502379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{E38219FA-1B60-4518-BC20-7F4C6CCFB0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5041F998-EEA8-44D2-8165-E72F92FD7177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5041F998-EEA8-44D2-8165-E72F92FD7177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F075B04F-4FF3-41F5-9DDA-FEDC07502379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F075B04F-4FF3-41F5-9DDA-FEDC07502379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
